@@ -1,2 +1,2 @@
 # ossuary
-Legacy code resting place.
+Legacy project resting place.
